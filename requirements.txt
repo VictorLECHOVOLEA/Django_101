@@ -1,0 +1,12 @@
+django =="5.0.6"
+psycopg =="3.1.19"  #https://pypi.org/project/psycopg/                        
+# psycopg2-binary =="2.8.6"   #https://pypi.org/project/psycopg2-binary/
+
+# Psycopg 3 is the most current implementation of the adapter.
+# pip install --upgrade pip           # to upgrade pip
+# pip install "psycopg[binary,pool]"  # to install package and dependencies
+
+#pip install psycopg2        #https://pypi.org/project/psycopg2/
+
+
+

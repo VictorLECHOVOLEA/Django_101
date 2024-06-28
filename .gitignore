@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# virtual environment
+django-101
+
 # Distribution / packaging
 .Python
 build/
